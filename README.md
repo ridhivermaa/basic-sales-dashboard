@@ -30,7 +30,7 @@ This dashboard presents a simple sales overview using sample data from 2017. It 
 - `Basic_Sales_Dashboard_Project1.xlsx` – includes raw data, pivots, and dashboard
 
 ### Reference
-Inspired by HowtoExcel.net's tutorial: [YouTube Video]([https://www.youtube.com/watch?v=JcdORXZjbbg)
+Inspired by HowtoExcel.net's tutorial: [YouTube Video](https://www.youtube.com/watch?v=JcdORXZjbbg)
 
 ### Note
 For personal learning and portfolio display only.
