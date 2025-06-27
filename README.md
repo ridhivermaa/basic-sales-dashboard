@@ -2,6 +2,8 @@
 
 This dashboard presents a simple sales overview using sample data from 2017. It was built in Microsoft Excel using pivot charts and slicers.
 
+![Dashboard Preview](dashboard-preview.png)
+
 ### Key Insights
 - Total sales performance
 - Sales breakdown by product, store, and salesperson
